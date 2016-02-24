@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTestApp", "GitTestApp\GitTestApp.csproj", "{9E23B507-431E-4077-A9A4-164C6AA6C65B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTestApp.DataAccess", "GitTestApp.DataAccess\GitTestApp.DataAccess.csproj", "{C73EDF6B-C63B-41E4-9338-EA902EECFB25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,24 @@ Global
 		{9E23B507-431E-4077-A9A4-164C6AA6C65B}.Release|x86.ActiveCfg = Release|x86
 		{9E23B507-431E-4077-A9A4-164C6AA6C65B}.Release|x86.Build.0 = Release|x86
 		{9E23B507-431E-4077-A9A4-164C6AA6C65B}.Release|x86.Deploy.0 = Release|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|ARM.Build.0 = Debug|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x64.ActiveCfg = Debug|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x64.Build.0 = Debug|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x64.Deploy.0 = Debug|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x86.ActiveCfg = Debug|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x86.Build.0 = Debug|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Debug|x86.Deploy.0 = Debug|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|ARM.ActiveCfg = Release|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|ARM.Build.0 = Release|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|ARM.Deploy.0 = Release|ARM
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x64.ActiveCfg = Release|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x64.Build.0 = Release|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x64.Deploy.0 = Release|x64
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x86.ActiveCfg = Release|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x86.Build.0 = Release|x86
+		{C73EDF6B-C63B-41E4-9338-EA902EECFB25}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
